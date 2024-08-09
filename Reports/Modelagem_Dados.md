@@ -29,13 +29,13 @@ Aprendi que existem três tipos principais de modelos de dados:
 **Modelo Físico**: Define como o modelo lógico será implementado em um sistema de banco de dados específico, incluindo tabelas, índices, chaves primárias e estrangeiras.
 
 ### Imagem exemplo, modelo lógico:
-<img src="modelo_logico.png">
+![Imagem](/Reports/imagens/modelo_logico.png)
 
 ### Imagem exemplo, modelo conceitual:
-<img src="modelo_conceitual.png">
+![Imagem](/Reports/imagens/modelo_conceitual.png)
 
 ## Processo Modelagem de Dados, ilustração:
-<img src="processo_modelagem_DB.jpg">
+![Imagem](/Reports/imagens/processo_modelagem_DB.jpg)
 
 
 ## Aplicações Modelagem de Dados
