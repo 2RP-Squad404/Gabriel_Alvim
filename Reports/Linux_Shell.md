@@ -9,20 +9,25 @@ Shell Script é um tipo de script de computador que é executado por um shell Un
 ## Comandos Bash:
 
 **`loop while`**
+
 ![Imagem](/Reports/imagens/Captura%20de%20tela%202024-08-20%20171800.png)
 
 **`criando uma pasta`**
+
 ![Imagem](/Reports/imagens/Captura%20de%20tela%202024-08-20%20171839.png)
 
 
 **`saindo da pasta`** 
+
 ![Imagem](/Reports/imagens/Captura%20de%20tela%202024-08-20%20171828.png)
 
 
 **`deletando a pasta`**
+
 ![Imagem](/Reports/imagens/Captura%20de%20tela%202024-08-20%20172012.png)
 
 **`confirmando exclusão`**
+
 ![Imagem](/Reports/imagens/Captura%20de%20tela%202024-08-20%20172024.png)
 
 ## Recursos Utilizados:
