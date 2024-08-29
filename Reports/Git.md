@@ -1,7 +1,7 @@
 # Relatório de Estudos
 
 **Nome do Estagiário:** Gabriel Alvim  
-**Data:** 06/08/2024
+**Data:** 02/08/2024
 #
 
 ## Git 
